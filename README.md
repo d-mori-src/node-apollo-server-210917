@@ -7,7 +7,7 @@
 ```
 $ git clone https://github.com/d-mori-src/node-apollo-server-210917.git
 $ cd node-apollo-server-210917
-$ nom install
+$ npm install
 $ node index.js
 ```
 　
